@@ -22,3 +22,4 @@ conn.commit()
 conn.close()
 
 print("✅ Дані успішно додані!")
+
